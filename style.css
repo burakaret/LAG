@@ -1,0 +1,80 @@
+body {       
+        margin: 0;       
+        padding: 10px;      
+         background: #f1f3f8;       
+         font-family: Arial, sans-serif;     
+        }     
+         h1 {       
+            text-align: center;      
+             color: #1a2540;       
+             letter-spacing: 3px;       
+             text-transform: uppercase;       
+             font-size: 2rem;     
+             }     
+             .card {       
+                width: 350px;       
+                background: #fff;       
+                border: 2px solid #d9dce3;       
+                padding: 0 0 40px;       
+                text-align: center;     
+                }     
+                .photo {       
+                    margin: 20px;       
+                    border: 1px solid #e2e2e2;       
+                    padding: 5px;     
+                    }     
+                    .photo img {      
+                         width: 100%;       
+                         display: block;     
+                         }     
+                         .brand {       
+                            font-style: italic;      
+                             color: #666;       
+                             font-size: 14px;     
+                             }     
+                             .title {      
+                                 margin: 15px 0;      
+                                  color: #1a2540;      
+                                   font-size: 22px;       
+                                   letter-spacing: 1px;     
+                                   }    
+                                    .code {       
+                                        color: #999;      
+                                         font-size: 13px;     
+                                         }     
+                                         .desc {      
+                                             text-align: justify;      
+                                              margin: 15px 0;       
+                                              line-height: 1.5;       
+                                              font-size: 15px;     
+                                              }     
+                                              ul {       
+                                                text-align: left;       
+                                                padding-left: 40px;       
+                                                font-size: 14px;       
+                                                line-height: 1.4;     
+                                                }     
+                                                .old-price {       
+                                                    text-decoration: line-through;       
+                                                    color: #999;       
+                                                    margin: 20px 0 10px;     
+                                                    }     
+                                                    .price {       
+                                                        color: #16b57a;       
+                                                        font-size: 26px;       
+                                                        font-weight: bold;       
+                                                        margin: 15px 0;     
+                                                        }    
+                                                         .btn {       
+                                                            display: inline-block;      
+                                                             width: 80%;       
+                                                             padding: 15px 0;       
+                                                             background: #2563eb;       
+                                                             color: #fff;      
+                                                              font-weight: bold;       
+                                                              border: none;       
+                                                              font-size: 16px;      
+                                                               text-transform: uppercase;       
+                                                               cursor: pointer;     }     
+                                                               .btn:hover {       background: #1d4ed8;     
+                                                               }
